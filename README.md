@@ -5,7 +5,7 @@
 # 제토2 초대
 [제토2 초대하기](https://discord.com/oauth2/authorize?client_id=666879942667141128&scope=bot&permissions=268706022)
 # 공식서버& 파트너 서버
-[![zetto](https://discordapp.com/api/guilds/683946140764209177/embed.png?style=banner2)](https://discord.gg/SC8hE25)
+[![zetto](https://discordapp.com/api/guilds/682083248872226816/embed.png?style=banner2)](https://discord.gg/sfA7dN5)
 [![SB](https://discordapp.com/api/guilds/681002025873702973/embed.png?style=banner2)](https://discord.gg/c9daxpF)
 # 봇정보
 [![한국 디스코드봇 리스트](https://api.koreanbots.dev/widget/bots/votes/666879942667141128.svg)](https://koreanbots.dev/bots/666879942667141128)
